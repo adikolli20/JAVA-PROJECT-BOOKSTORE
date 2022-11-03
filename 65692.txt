@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  test
+Date :2022-02-01
+Different types of books bought 1
+Title :Final Test    Price :  988.0 Nr of copies : 10  Total Amount for this book   9880.0
+Total Amount to be paied 9880
+Bill created by user:   admin

@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  Test2
+Date :2022-02-02
+Different types of books bought 1
+Title :Saranda    Price :  500.0 Nr of copies : 4  Total Amount for this book   2000.0
+Total Amount to be paied 2000
+Bill created by user:   manager

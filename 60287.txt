@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  test2
+Date :2022-02-02
+Different types of books bought 1
+Title :Korca    Price :  800.0 Nr of copies : 10  Total Amount for this book   8000.0
+Total Amount to be paied 8000
+Bill created by user:   admin

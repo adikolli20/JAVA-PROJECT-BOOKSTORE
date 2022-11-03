@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  Test4
+Date :2022-02-02
+Different types of books bought 1
+Title :PRISHTINA    Price :  800.0 Nr of copies : 89  Total Amount for this book   71200.0
+Total Amount to be paied 71200
+Bill created by user:   manager
